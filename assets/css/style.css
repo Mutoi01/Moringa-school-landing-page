@@ -296,4 +296,24 @@ mark{
   color: #EC4067;
 }
 
+/* styling footer */
+
+
+
+#footer{
+  text-align: center;
+  vertical-align:center ;
+  padding-top: 20px;
+ 
+}
+
+.footer{
+  display: block;
+  background-color:rgba(230, 230, 230, 0.2);
+  width: 100%;
+  padding: 30px;
+  position: relative;
+
+}
+
 
