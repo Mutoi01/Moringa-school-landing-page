@@ -248,3 +248,52 @@ mark{
 }
 
 
+/* styling the 6th container div */
+.container6{
+  padding: 70px 265px;
+}
+
+.bike{
+  color: #EC4067;
+  font-weight: 1;
+}
+
+.div-e{
+  float: left;
+  width: 30%;
+}
+
+#img9{padding: 0px 100px;
+  
+}
+
+.img9{
+  width: 700px;
+  height: 360px;
+}
+
+.weight{
+  font-size: x-small;
+  font-weight: 100;
+}
+
+/* styling final container */
+
+.container7{
+  padding: 70px 265px;
+  font-size: medium;
+
+}
+
+
+.contact{
+  color: #EC4067;
+}
+
+
+#contact{
+  text-decoration: none;
+  color: #EC4067;
+}
+
+
