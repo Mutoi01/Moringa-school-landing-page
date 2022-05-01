@@ -162,3 +162,89 @@ mark{
   color: rgba(0, 0, 0, 0.3);
 }
 
+/* styling for 3rd container div */
+.container3{
+  padding:70px 220px;
+  margin: auto;
+  display: flex;
+}
+
+
+.div-c{
+  float: left;
+  width:40%;
+  padding:0px 65px;
+  text-align: left;
+  
+}
+
+.img3{
+  width: 370px;
+  height: 300px;
+}
+ 
+#img3{
+  justify-content: flex-end;
+  padding-left: 90px;
+
+}
+
+/* styling for 4th container div */
+.container4{
+  padding:70px 277px;
+  margin: auto;
+  display: flex;
+}
+
+
+.div-d{
+  float: right;
+  width:30%;
+  padding:0px 65px;
+  text-align: left;
+  
+}
+
+#img4{
+  flex: left;
+  
+  
+}
+ 
+.img4{
+  width: 500px;
+  height: 300px;
+
+}
+.tech{
+  padding:70px 240px;
+  font-weight: 100;
+   
+}
+#tech{
+  font-weight: 100;
+  font-size: x-small;
+}
+
+/* styling the 5th container div */
+
+.container5{
+  padding:70px 240px;
+  margin: auto;
+  display: flex;
+}
+
+.tm-images{
+  width: 250px;
+  height: 199px;
+}
+
+.tm{
+  color: #EC4067;
+}
+
+.mentors{
+  padding: 0px 30px;
+}
+
+
