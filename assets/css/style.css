@@ -6,6 +6,13 @@
   background-color: white;
 }
 
+
+body{
+  font-family: 'Nunito', sans-serif ;
+ 
+}
+
+/* header styling */
 header{
   display: flex;
   justify-content: flex-end;
@@ -35,15 +42,18 @@ header{
 }
 
 
-span{
+header span{
   color:#EC4067 ;
 }
+
+/* button styling */
 
 .btn1{
   margin-left: 30px;
 }
 
-.button-block{
+
+.btn-block{
   text-align: center;
   display: inline-block;
   padding: 8px 25px;
@@ -51,6 +61,66 @@ span{
   cursor: pointer;
   background-color: #EC4067;
   color: white;
-  border-radius: 5px;
+  border-radius: 7px;
+
+}
+
+.btn-clear{
+  text-align: center;
+  display: inline-block;
+  padding: 8px 25px;
+  font-size: 17px;
+  cursor: pointer;
+  background-color: white;
+  color: #EC4067;
+  border-radius: 0px;
+  border-color: #EC4067;
+
+}
+
+/* styling for first container div */
+
+.container1{
+  margin: auto;
+  padding:100px 300px;
+  display: flex;
+}
+
+.div-a{
+  float: left;
+  width:2%;
+  padding:50px;
+  
+}
+
+.div-a h3{
+  font-weight: 1px;
+
+}
+
+.h1a{
+  color: #EC4067;
+  font-weight: 2;
+}
+
+.img1{
+  width: 350px;
+  height: 270px;
+}
+
+#img1{
+  float: right;
+  width: 50%;
+  padding: opx 40px;
+
+}
+
+.stories {
+  padding: 45px 280px;
+}
+
+#stories{ 
+  font-size: x-small;
+  font-weight: 100;
 
 }
